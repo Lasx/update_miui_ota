@@ -1,5 +1,11 @@
 | 小米CC 9 Pro  开发版/内测版    |
 | ---- |
+| [miui_TUCANA_21.4.19_41224d3224_11.0.zip](https://hugeota.d.miui.com/21.4.19/miui_TUCANA_21.4.19_41224d3224_11.0.zip)    |
+| [miui_TUCANA_21.4.16_b9021d235d_11.0.zip](https://hugeota.d.miui.com/21.4.16/miui_TUCANA_21.4.16_b9021d235d_11.0.zip)    |
+| [miui_TUCANA_21.4.14_f9b8f8a0c1_11.0.zip](https://hugeota.d.miui.com/21.4.14/miui_TUCANA_21.4.14_f9b8f8a0c1_11.0.zip)    |
+| [miui_TUCANA_21.4.13_71847fdaca_11.0.zip](https://hugeota.d.miui.com/21.4.13/miui_TUCANA_21.4.13_71847fdaca_11.0.zip)    |
+| [miui_TUCANA_21.4.12_ab10f39b3e_11.0.zip](https://hugeota.d.miui.com/21.4.12/miui_TUCANA_21.4.12_ab10f39b3e_11.0.zip)    |
+| [miui_TUCANA_21.4.10_c1d32643f9_11.0.zip](https://hugeota.d.miui.com/21.4.10/miui_TUCANA_21.4.10_c1d32643f9_11.0.zip)    |
 | [miui_TUCANA_21.4.7_36605b32ca_11.0.zip](https://hugeota.d.miui.com/21.4.7/miui_TUCANA_21.4.7_36605b32ca_11.0.zip)    |
 | [miui_TUCANA_21.4.6_e890a77b11_11.0.zip](https://hugeota.d.miui.com/21.4.6/miui_TUCANA_21.4.6_e890a77b11_11.0.zip)    |
 | [miui_TUCANA_21.4.2_42cea5ec37_11.0.zip](https://hugeota.d.miui.com/21.4.2/miui_TUCANA_21.4.2_42cea5ec37_11.0.zip)    |

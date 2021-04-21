@@ -1,5 +1,11 @@
 | Redmi Note7 Pro  开发版/内测版    |
 | ---- |
+| [miui_VIOLET_21.4.20_0cb95c1d69_10.0.zip](https://hugeota.d.miui.com/21.4.20/miui_VIOLET_21.4.20_0cb95c1d69_10.0.zip)    |
+| [miui_VIOLET_21.4.16_e38dc70c44_10.0.zip](https://hugeota.d.miui.com/21.4.16/miui_VIOLET_21.4.16_e38dc70c44_10.0.zip)    |
+| [miui_VIOLET_21.4.14_3168ad03ed_10.0.zip](https://hugeota.d.miui.com/21.4.14/miui_VIOLET_21.4.14_3168ad03ed_10.0.zip)    |
+| [miui_VIOLET_21.4.13_9203261bef_10.0.zip](https://hugeota.d.miui.com/21.4.13/miui_VIOLET_21.4.13_9203261bef_10.0.zip)    |
+| [miui_VIOLET_21.4.12_ac419ef184_10.0.zip](https://hugeota.d.miui.com/21.4.12/miui_VIOLET_21.4.12_ac419ef184_10.0.zip)    |
+| [miui_VIOLET_21.4.9_dccd215834_10.0.zip](https://hugeota.d.miui.com/21.4.9/miui_VIOLET_21.4.9_dccd215834_10.0.zip)    |
 | [miui_VIOLET_21.4.7_1b8c7905b4_10.0.zip](https://hugeota.d.miui.com/21.4.7/miui_VIOLET_21.4.7_1b8c7905b4_10.0.zip)    |
 | [miui_VIOLET_21.4.6_cf66366f2b_10.0.zip](https://hugeota.d.miui.com/21.4.6/miui_VIOLET_21.4.6_cf66366f2b_10.0.zip)    |
 | [miui_VIOLET_21.4.2_d31ab06dd9_10.0.zip](https://hugeota.d.miui.com/21.4.2/miui_VIOLET_21.4.2_d31ab06dd9_10.0.zip)    |

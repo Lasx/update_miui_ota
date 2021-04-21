@@ -1,5 +1,11 @@
 | Redmi 10X Pro  开发版/内测版    |
 | ---- |
+| [miui_BOMB_21.4.19_2f31194374_11.0.zip](https://hugeota.d.miui.com/21.4.19/miui_BOMB_21.4.19_2f31194374_11.0.zip)    |
+| [miui_BOMB_21.4.16_87bd3f9a04_11.0.zip](https://hugeota.d.miui.com/21.4.16/miui_BOMB_21.4.16_87bd3f9a04_11.0.zip)    |
+| [miui_BOMB_21.4.14_c748f711d2_11.0.zip](https://hugeota.d.miui.com/21.4.14/miui_BOMB_21.4.14_c748f711d2_11.0.zip)    |
+| [miui_BOMB_21.4.13_c55cb168fb_11.0.zip](https://hugeota.d.miui.com/21.4.13/miui_BOMB_21.4.13_c55cb168fb_11.0.zip)    |
+| [miui_BOMB_21.4.12_3da7cf7681_11.0.zip](https://hugeota.d.miui.com/21.4.12/miui_BOMB_21.4.12_3da7cf7681_11.0.zip)    |
+| [miui_BOMB_21.4.9_e07772141b_11.0.zip](https://hugeota.d.miui.com/21.4.9/miui_BOMB_21.4.9_e07772141b_11.0.zip)    |
 | [miui_BOMB_21.4.7_aa159db5ff_11.0.zip](https://hugeota.d.miui.com/21.4.7/miui_BOMB_21.4.7_aa159db5ff_11.0.zip)    |
 | [miui_BOMB_21.4.6_ba1fbc54b2_11.0.zip](https://hugeota.d.miui.com/21.4.6/miui_BOMB_21.4.6_ba1fbc54b2_11.0.zip)    |
 | [miui_BOMB_21.4.2_d47a37e8be_11.0.zip](https://hugeota.d.miui.com/21.4.2/miui_BOMB_21.4.2_d47a37e8be_11.0.zip)    |

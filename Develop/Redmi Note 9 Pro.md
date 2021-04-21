@@ -1,5 +1,11 @@
 | Redmi Note 9 Pro  开发版/内测版    |
 | ---- |
+| [miui_GAUGUIN_21.4.19_cea32181ee_11.0.zip](https://hugeota.d.miui.com/21.4.19/miui_GAUGUIN_21.4.19_cea32181ee_11.0.zip)    |
+| [miui_GAUGUIN_21.4.16_a7b99668ca_11.0.zip](https://hugeota.d.miui.com/21.4.16/miui_GAUGUIN_21.4.16_a7b99668ca_11.0.zip)    |
+| [miui_GAUGUIN_21.4.14_4f8c366cff_11.0.zip](https://hugeota.d.miui.com/21.4.14/miui_GAUGUIN_21.4.14_4f8c366cff_11.0.zip)    |
+| [miui_GAUGUIN_21.4.13_16d2701c0b_11.0.zip](https://hugeota.d.miui.com/21.4.13/miui_GAUGUIN_21.4.13_16d2701c0b_11.0.zip)    |
+| [miui_GAUGUIN_21.4.12_bedbb18102_11.0.zip](https://hugeota.d.miui.com/21.4.12/miui_GAUGUIN_21.4.12_bedbb18102_11.0.zip)    |
+| [miui_GAUGUIN_21.4.10_ec536f35ad_11.0.zip](https://hugeota.d.miui.com/21.4.10/miui_GAUGUIN_21.4.10_ec536f35ad_11.0.zip)    |
 | [miui_GAUGUIN_21.4.7_224f1ae2bf_11.0.zip](https://hugeota.d.miui.com/21.4.7/miui_GAUGUIN_21.4.7_224f1ae2bf_11.0.zip)    |
 | [miui_GAUGUIN_21.4.6_f9b0d323a1_11.0.zip](https://hugeota.d.miui.com/21.4.6/miui_GAUGUIN_21.4.6_f9b0d323a1_11.0.zip)    |
 | [miui_GAUGUIN_21.4.2_c602c3306d_11.0.zip](https://hugeota.d.miui.com/21.4.2/miui_GAUGUIN_21.4.2_c602c3306d_11.0.zip)    |

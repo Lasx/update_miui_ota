@@ -1,5 +1,11 @@
 | Redmi K20  开发版/内测版    |
 | ---- |
+| [miui_DAVINCI_21.4.19_cf88f171e1_11.0.zip](https://hugeota.d.miui.com/21.4.19/miui_DAVINCI_21.4.19_cf88f171e1_11.0.zip)    |
+| [miui_DAVINCI_21.4.16_57bf9e7069_11.0.zip](https://hugeota.d.miui.com/21.4.16/miui_DAVINCI_21.4.16_57bf9e7069_11.0.zip)    |
+| [miui_DAVINCI_21.4.14_51573a960e_11.0.zip](https://hugeota.d.miui.com/21.4.14/miui_DAVINCI_21.4.14_51573a960e_11.0.zip)    |
+| [miui_DAVINCI_21.4.13_2de1c42227_11.0.zip](https://hugeota.d.miui.com/21.4.13/miui_DAVINCI_21.4.13_2de1c42227_11.0.zip)    |
+| [miui_DAVINCI_21.4.12_d7f24fcb64_11.0.zip](https://hugeota.d.miui.com/21.4.12/miui_DAVINCI_21.4.12_d7f24fcb64_11.0.zip)    |
+| [miui_DAVINCI_21.4.10_7dd26d2c0f_11.0.zip](https://hugeota.d.miui.com/21.4.10/miui_DAVINCI_21.4.10_7dd26d2c0f_11.0.zip)    |
 | [miui_DAVINCI_21.4.7_8bfecd2bec_11.0.zip](https://hugeota.d.miui.com/21.4.7/miui_DAVINCI_21.4.7_8bfecd2bec_11.0.zip)    |
 | [miui_DAVINCI_21.4.6_ad0aaf334c_11.0.zip](https://hugeota.d.miui.com/21.4.6/miui_DAVINCI_21.4.6_ad0aaf334c_11.0.zip)    |
 | [miui_DAVINCI_21.4.2_0cf097faf3_11.0.zip](https://hugeota.d.miui.com/21.4.2/miui_DAVINCI_21.4.2_0cf097faf3_11.0.zip)    |
